@@ -1,5 +1,5 @@
 
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
+https://i.pinimg.com/1200x/58/c4/38/58c43830365d8fb2eab1a612a64d7c4e.jpg
 <h1 align="center">Hi 👋, I'm Nandhana</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
